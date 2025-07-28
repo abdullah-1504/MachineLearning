@@ -1,0 +1,2 @@
+Step,Type,Amount,Old Balance Origin,New Balance Origin,Old Balance Dest,New Balance Dest,Error Balance Origin,Error Balance Dest,Is Origin Zero (0/1),Is Dest Zero (0/1),Is Origin Negative (0/1),Is Dest Negative (0/1),Amount % Origin,Amount % Dest,Anomaly Score,Prediction,timestamp
+0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2025-07-22 16:17:50.628635
